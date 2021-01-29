@@ -1,0 +1,23 @@
+{
+  "name": "@vinval/cookier",
+  "version": "1.0.2",
+  "description": "A simple lite cookie parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Say Hello!\\\""
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/vinval"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:vinval/cookier.git",
+    "directory": "@vinval/cookier"
+  },
+  "keywords": [
+    "cookies",
+    "parser"
+  ],
+  "author": "Valrosso Vincenzo",
+  "license": "MIT"
+}
